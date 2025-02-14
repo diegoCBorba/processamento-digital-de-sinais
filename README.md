@@ -13,8 +13,9 @@ O repositório está organizado por capítulos, conforme o livro texto. Para cad
 ## Capítulos
 
 ### Capítulo 4: A Transformada-Z
-- [Google Colab Notebook](#)
-- [Vídeos Explicativos](#)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1TvGAdaGFgLOv4qw7b5m0T02-twMrBAPe?usp=sharing)
+- [Vídeo 1 - Entendendo Transformada Z](https://www.youtube.com/watch?v=XJRW6jamUHk)
+- [Vídeo 2 - Transformada Z usando Python](https://www.youtube.com/watch?v=T11H-kOq1Y4)
 
 ### Capítulo 5: Transformada Discreta de Fourier
 - [Google Colab Notebook](#)
