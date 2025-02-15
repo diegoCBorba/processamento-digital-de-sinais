@@ -23,8 +23,9 @@ O repositório está organizado por capítulos, conforme o livro texto. Para cad
 - [Vídeo 2 - Entendimento da DFT com Python](https://www.youtube.com/watch?v=5a61BUpzmT4)
 
 ### Capítulo 6: Implementação de Filtros Discretos no Tempo
-- [Google Colab Notebook](#)
-- [Vídeos Explicativos](#)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1GQRy3TxAeEadTAmeqqp-NtAx2zb8Y6YG?usp=sharing)
+- [Vídeo 1 - Visão geral de IIR e FIR](https://www.youtube.com/watch?v=9yNQBWKRSs4)
+- [Vídeo 2 - Filtros Discretos](https://www.youtube.com/watch?v=UP0RyzYxqc8)
 
 ### Capítulo 7: Projeto de Filtros FIR
 - [Google Colab Notebook](#)
