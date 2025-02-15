@@ -39,8 +39,17 @@ O repositório está organizado por capítulos, conforme o livro texto. Para cad
 - [Vídeo 3 - IIR Filter Design Procedure](https://www.youtube.com/watch?v=N1eraFmDw1M)
 
 ### Capítulo 12: Aplicações em Comunicações
-- [Google Colab Notebook](#)
-- [Vídeos Explicativos](#)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1XnED0Gzo7oHcJPioFIL0E9ACnMFWvzzm?usp=sharing)
+- [Vídeo 1 - Pulse Code Modulation](https://www.youtube.com/watch?v=wn71QBApCRg)
+- [Vídeo 2 - Differential PCM (DPCM)](https://www.youtube.com/watch?v=PFbm-jsTIpA)
+- [Vídeo 3 - Adaptive PCM e DPCM (ADPCM)](https://www.youtube.com/watch?v=GlKu8QTrK8Y&t=321s)
+- [Vídeo 4 - Delta Modulation (DM)](https://www.youtube.com/watch?v=vzkLq0tcmhw)
+- [Vídeo 5 - Adaptive Delta Modulation (ADM)](https://www.youtube.com/watch?v=lCnc8rG1BPc)
+- [Vídeo 6 - Linear Predictive Coding (LPC)](https://www.youtube.com/watch?v=i8F2RzDPTLc)
+- [Vídeo 7 - Dual-Tone Multifrequency (DTMF)](https://www.youtube.com/watch?v=xJoHayakEMU)
+- [Vídeo 8 - Binary Digital Communications](https://www.youtube.com/watch?v=Iyzpt3bKTTI)
+- [Vídeo 9 - Spread-Spectrum Communications (FHSS)](https://www.youtube.com/watch?v=CkhA7s5GIGc)
+- [Vídeo 10 - Spread-Spectrum Communications (DSSS)](https://www.youtube.com/watch?v=-1mxYWvfVWQ)
 
 ## Ferramentas Utilizadas
 - **Python**: Para simulações computacionais.
