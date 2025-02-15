@@ -33,8 +33,10 @@ O repositório está organizado por capítulos, conforme o livro texto. Para cad
 - [Vídeo 2 - Ainda sobre FIR](https://www.youtube.com/watch?v=9gm1UhwNm3I)
 
 ### Capítulo 8: Projeto de Filtros IIR
-- [Google Colab Notebook](#)
-- [Vídeos Explicativos](#)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1PbIMCzgB4Hq9VJrRx08H5qVZS9bLbMw9?usp=sharing)
+- [Vídeo 1 - Resposta de Impulso Infinito (IIR)](https://www.youtube.com/watch?v=ap1qXBTKU8g)
+- [Vídeo 2 - Exemplos de IIR](https://www.youtube.com/watch?v=mSM1fCMZrZ8)
+- [Vídeo 3 - IIR Filter Design Procedure](https://www.youtube.com/watch?v=N1eraFmDw1M)
 
 ### Capítulo 12: Aplicações em Comunicações
 - [Google Colab Notebook](#)
