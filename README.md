@@ -28,8 +28,9 @@ O repositório está organizado por capítulos, conforme o livro texto. Para cad
 - [Vídeo 2 - Filtros Discretos](https://www.youtube.com/watch?v=UP0RyzYxqc8)
 
 ### Capítulo 7: Projeto de Filtros FIR
-- [Google Colab Notebook](#)
-- [Vídeos Explicativos](#)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1Pa-3DX0oo7ZUL34eLP-5iTy7McYqQNG1?usp=sharing)
+- [Vídeo 1 - Introdução ao FIR](https://www.youtube.com/watch?v=NvRKtdrssFA)
+- [Vídeo 2 - Ainda sobre FIR](https://www.youtube.com/watch?v=9gm1UhwNm3I)
 
 ### Capítulo 8: Projeto de Filtros IIR
 - [Google Colab Notebook](#)
