@@ -18,8 +18,9 @@ O repositório está organizado por capítulos, conforme o livro texto. Para cad
 - [Vídeo 2 - Transformada Z usando Python](https://www.youtube.com/watch?v=T11H-kOq1Y4)
 
 ### Capítulo 5: Transformada Discreta de Fourier
-- [Google Colab Notebook](#)
-- [Vídeos Explicativos](#)
+- [Google Colab Notebook](https://colab.research.google.com/drive/1DVpkj2cfkHuMI5Ces_xZmcS6sh1DbLbs?usp=sharing)
+- [Vídeo 1 - Transformada Discreta de Fourier](https://www.youtube.com/watch?v=nl9TZanwbBk)
+- [Vídeo 2 - Entendimento da DFT com Python](https://www.youtube.com/watch?v=5a61BUpzmT4)
 
 ### Capítulo 6: Implementação de Filtros Discretos no Tempo
 - [Google Colab Notebook](#)
